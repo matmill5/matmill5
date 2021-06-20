@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am Matthew E. Miller.
+- I'm a formally educated Computer Scientist and Full Stack Engineer; BSCS and MSCS.
+- I develop software applications for the corporate enterprise community.
+
+
+
 <!--
 **matmill5/matmill5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
