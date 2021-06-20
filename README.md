@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-😀 I am Matthew E. Miller.
+😀 I am Matthew Earl Miller.
 
 🎓 I am a formally educated Computer Scientist and Full Stack Engineer; BSCS and MSCS.
 
