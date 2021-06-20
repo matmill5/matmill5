@@ -1,10 +1,14 @@
 ### Hi there 👋
+---
+😀 I am Matthew E. Miller.
 
-- I am Matthew E. Miller.
-- I'm a formally educated Computer Scientist and Full Stack Engineer; BSCS and MSCS.
-- I develop software applications for the corporate enterprise community.
+🎓 I am a formally educated Computer Scientist and Full Stack Engineer; BSCS and MSCS.
 
+🏢 I develop software applications for the corporate enterprise community (think Fortune 500).
 
+🍯 I provide private software development and consulting services through my business entity; JAMM Software Systems.
+
+🥂 You can connect with me via LinkedIn: https://www.linkedin.com/in/matthew-miller-engineer/
 
 <!--
 **matmill5/matmill5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
