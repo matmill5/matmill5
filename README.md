@@ -10,6 +10,8 @@
 
 🥂 You can connect with me via LinkedIn: https://www.linkedin.com/in/matthew-miller-engineer/
 
+⚡ You can learn more about me via my Personal Website: https://www.matthewearlmiller.come m
+
 <!--
 **matmill5/matmill5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
