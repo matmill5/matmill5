@@ -8,9 +8,9 @@
 
 🍯 I provide private software development and consulting services through my business entity; [JAMM Software Systems](https://www.jammsoftwaresystems.com).
 
-🥂 You can connect with me via [Linkedin](https://www.linkedin.com/in/matthew-miller-engineer/).
+🥂 You can connect with me via LinkedIn: https://www.linkedin.com/in/matthew-miller-engineer/
 
-⚡ You can learn more about me via my [personal website](https://www.matthewearlmiller.com).
+⚡ You can learn more about me via my personal website: https://www.matthewearlmiller.com
 
 <!--
 **matmill5/matmill5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
