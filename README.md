@@ -6,7 +6,7 @@
 
 🏢 I develop software applications for the corporate enterprise community (think Fortune 500).
 
-🍯 I provide private software development and consulting services through my business entity; (https://www.jammsoftwaresystems.com)[JAMM Software Systems].
+🍯 I provide private software development and consulting services through my business entity; [https://www.jammsoftwaresystems.com](JAMM Software Systems).
 
 🥂 You can connect with me via LinkedIn: https://www.linkedin.com/in/matthew-miller-engineer/
 
