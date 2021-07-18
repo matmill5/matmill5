@@ -12,9 +12,6 @@
 
 ⚡ You can learn more about me via my personal website: https://www.matthewearlmiller.com
 
-### Github User Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmill5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **matmill5/matmill5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
