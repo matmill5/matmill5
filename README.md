@@ -4,7 +4,7 @@
 
 🎓 I am a formally educated Computer Scientist and Full Stack Engineer; BSCS and MSCS.
 
-🏢 I develop software applications for the corporate enterprise community (think Fortune 500).
+🏢 I develop software applications for the corporate enterprise community (Fortune 500).
 
 🍯 I provide private software development and consulting services through my business entity; [JAMM Software Systems](https://www.jammsoftwaresystems.com).
 
