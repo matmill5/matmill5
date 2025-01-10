@@ -12,7 +12,7 @@
 
 👨‍🚀 Recently, I am working on MorFi Technologies (morfi.com) which is on a mission to build better mortgage software for mortgage loan officers, brokers, lenders, and anyone else involved in the home buying process.
 
-📫 If you have an inquiry, you can reach me by email at matthew@morfi.com
+📫 If you have an inquiry, you can reach me by email: matthew@morfi.com
 
 🥂 If you just want to connect, you can find me on LinkedIn: https://www.linkedin.com/in/matthew-miller-engineer/
 
