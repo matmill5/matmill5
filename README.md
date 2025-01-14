@@ -6,7 +6,7 @@
 
 💵 My professional work is focused on the development of financial services technology.
 
-🏦 I previously worked as a Software Engineer at JP Morgan Chase & Co. (NYSE:JPMC), Key Corp (NYSE:KEY), and the Federal Reserve Bank of San Francisco (FRB).
+🏦 I previously worked as a Lead Software Engineer at JP Morgan Chase & Co. (NYSE:JPMC), Key Corp (NYSE:KEY), and the Federal Reserve Bank of San Francisco (FRB).
 
 🇺🇸 I have been fortunate enough to build and ship software, like JPMC's Chase Offers, which is used by millions of people each day and produces hundreds of millions of dollars in revenue.
 
